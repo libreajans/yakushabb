@@ -1,0 +1,100 @@
+icon_happy.gif=+:happy=+::happy:
+icon_smile.gif=+:gülümseme=+::)
+icon_smile.gif=+:gülümseme=+::-)
+icon_smile.gif=+:gülümseme=+::smile:
+icon_biggrin.gif=+:çok mutlu=+::D
+icon_biggrin.gif=+:çok mutlu=+::-D
+icon_biggrin.gif=+:çok mutlu=+::grin:
+icon_sleep.gif=+:uyku=+::sleep:
+icon_scared.gif=+:scared=+::scared:
+icon_sad.gif=+:üzgün=+::(
+icon_sad.gif=+:üzgün=+::-(
+icon_sad.gif=+:üzgün=+::sad:
+icon_mad.gif=+:kýzgýn=+::x
+icon_mad.gif=+:kýzgýn=+::-x
+icon_mad.gif=+:kýzgýn=+::mad:
+icon_surprised.gif=+:süpriz=+::o
+icon_surprised.gif=+:süpriz=+::-o
+icon_surprised.gif=+:süpriz=+::eek:
+icon_eek.gif=+:þok olmuþ=+::shock:
+icon_confused.gif=+:þaþkýn=+::?
+icon_confused.gif=+:þaþkýn=+::-?
+icon_confused.gif=+:þaþkýn=+::???:
+icon_cool.gif=+:Cool=+:8)
+icon_cool.gif=+:Cool=+:8-)
+icon_cool.gif=+:Cool=+::cool:
+icon_lol.gif=+:çýlgýn=+::lol:
+icon_redface.gif=+:yüz kýzarmasý=+::oops:
+icon_cry.gif=+:aðlýyor=+::cry:
+icon_evil.gif=+:evil=+::evil:
+icon_twisted.gif=+:twisted=+::twisted:
+icon_-1.gif=+:-1=+::-1:
+icon_+1.gif=+:+1=+::+1:
+icon_rolleyes.gif=+:dönen gözler=+::roll:
+icon_wink.gif=+:göz kýrpma=+::wink:
+icon_wink.gif=+:göz kýrpma=+:;)
+icon_wink.gif=+:göz kýrpma=+:;-)
+icon_neutral.gif=+:doðal=+::|
+icon_neutral.gif=+:doðal=+::-|
+icon_neutral.gif=+:doðal=+::dogal:
+icon_mrgreen.gif=+:bay yeþil=+::yesil:
+icon_exclaim.gif=+:ünlem=+::!:
+icon_question.gif=+:soru=+::?:
+icon_idea.gif=+:düþünce=+::idea:
+icon_arrow.gif=+:ok iþareti=+::arrow:
+arrow.gif=+:arrow=+::arrow:
+arrowed.gif=+:arrowed=+::arrowed:
+bb.gif=+:phpBB=+::phpbb:
+bulletblue.gif=+:bulletblue=+::bulletblue:
+file.gif=+:file=+::file:
+folder.gif=+:folder=+::folder:
+gold.gif=+:medal=+::medal:
+ipucu.gif=+:ipucu=+::ipucu:
+li.gif=+:madde imi=+::li:
+link.gif=+:link=+::link:
+lock.gif=+:kilitli=+::lock:
+login.gif=+:login=+::login:
+nav.gif=+:nav=+::nav:
+nm.gif=+:yeni mesajlar=+::nm:
+online.gif=+:online=+::online:
+offline.gif=+:ofline=+::offline:
+open.gif=+:open=+::open:
+pm.gif=+:pm=+::pm:
+re-pm.gif=+:re-pm=+::re-pm:
+search.gif=+:search=+::search:
+sm.gif=+:kendi mesajlarýnýz=+::sm:
+surum.gif=+:sürüm=+::surum:
+warred.gif=+:warred=+::warred:
+waryel.gif=+:waryel=+::waryel:
+yorum.gif=+:yorum=+::yorum:
+asc_order.png=+:azalan=+::asc:
+desc_order.png=+:artan=+::desc:
+cross.png=+:cross=+::cross:
+info.png=+:info=+::info:
+modul.png=+:modül=+::modul:
+project.png=+:proje=+::proje:
+tick.png=+:okey=+::ok:
+tr.png=+:türkiye=+::tr:
+warning.png=+:warning=+::warn:
+minipost_new.gif=+:post new=+::pn:
+minipost.gif=+:post=+::p:
+saved.gif=+:saved=+::saved:
+clip.gif=+:attach=+::attach:
+savedd.gif=+:saved=+::saveded:
+mektup.gif=+:mektup=+::mektup:
+icon_ban.gif=+:ban=+::ban:
+icon_offtopic.gif=+:konu dýþý=+::offtopic:
+icon_unsure.gif=+:oops=+::oops:
+icon_pls.gif=+:lütfen=+::pls:
+icon_wub.gif=+:aþk=+::love:
+icon_razz.gif=+:alaycý=+::P
+icon_razz.gif=+:alaycý=+::-P
+icon_razz.gif=+:alaycý=+::razz:
+icon_++.gif=+:++=+::++:
+icon_alkis.gif=+:alkýþlar=+::alkis:
+icon_wall.gif=+:duvara kafa=+::duvar:
+icon_nayir.gif=+:hayýr dostum=+::hayir:
+inndir.gif=+:indir=+::inndir:
+save.gif=+:kaydet=+::save:
+dload.gif=+:dload=+::dload:
+flame.gif=+::flame:=+::flame:

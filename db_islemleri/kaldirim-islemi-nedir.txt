@@ -1,0 +1,45 @@
+önemli uyarý: henüz beta / deneme seviyesindedir
+
+kaldýrým, yakusha sisteminin databasesinin, yakushayla ilgili tüm ayarlardan tamamen temizlenmesi demektir...
+
+bu iþlemi neden ihtiyaç duyulabilir
+
+a) premod desteði kesildiðinde phpbb ye geri dönmek için
+b) phpbb 2 den phpbb 3 e geçiþ yapabilmek için
+c) test için
+
+A- phpbb'ye geri dönmek için
+
+ön uyarý:
+
+eklediðiniz eklentiler vs artýk eriþilemez olacaktýr, mesajlar için kullandýðýnýz biçim kodlarý vs de hesaba katýlýnca sistem kesinlikle kafayý yiyecektir...
+
+bu açýdan bu dönüþüm iþleminden sonra eski mesajlarýnýzý siz yok sayýnýz, size sadece üyeleriniz kalacak kabul ediniz.
+
+iþlemler:
+
+a) f-6.001_to_phpBB_2021 dosyasýný, veya size uygun olan her hangi bir silme dosyasýný çalýþtýrýnýz.
+
+b) config.php ve images klasörü hariç forumunuzdaki bütün  dosyalarý siliniz. phpbb 2021 standart sürümünü ingilizce ve türkçe dil dosaylarýyla birlikte forumunuza yeniden yükleyiniz.
+
+c) config.php dosyasýný kontrol ediniz...
+
+d) sitenize yeniden giriþ yapýnýz...
+
+
+B- phpbb 3 geçiþ yapabilmek için
+
+þu an itibariyle bu mümkün deðil, çünkü phpbb 3 henüz test aþamasýnda ve kararlý ve yayýnlanmýþ bir sürümü heniz yok.
+
+fakat biçim kodlarýyla ilgili uyarý burda da yapýlabilir, eklenen diðer özellikler de zaten mevta olacaktýr...
+
+yani sadece üyeler ve mesaj sayýlarý sað kalacaktýr...
+
+henüz çevirim araçlarý geliþtirilmemiþtir; fakat phpbb 3 için de bir premod yapmayý amaçlýyoruz... sonuç olarak
+
+arada kendi çevirim aracýmýzý da yapmamýz gerekecektir.
+
+
+c) Test için.
+
+ben test ettim, çalýþýyor, dilerseniz siz de localde test edebilir ve iþlem sonucunda ortaya çýkan databaseleri karþýlaþtýrabilirsiniz...

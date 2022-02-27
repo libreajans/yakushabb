@@ -1,0 +1,17 @@
+DirectoryIndex index.html index.htm portal.php index.php
+
+<Files "config.php">
+Order Allow,Deny
+Deny from All
+</Files>
+
+<Files "common.php">
+Order Allow,Deny
+Deny from All
+</Files>
+
+<files archive>
+  ForceType application/x-httpd-php
+  #AcceptPathInfo On
+  #uncomment this if you have apache2
+</files>

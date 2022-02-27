@@ -1,0 +1,27 @@
+body { background: #EEEEEE; }
+body, li, td, div { font: 11px verdana, arial, sans-serif; }
+ul { list-style-type: none; }
+li { font-size: 10pt; }
+i { color: silver; }
+p.largefont { text-align: left; font-size: 10pt; font-weight: bold; }
+div.pagebody { background: white; padding:16px; border: 1px solid silver; }
+div.pda { float: right; background: #F9F9F9; border-left: 1px solid silver; border-right: 1px solid silver; border-bottom: 1px solid silver; padding: 4px; }
+div.post { border: 1px solid silver; padding: 1px; margin-bottom: 16px; }
+div.posttop { padding: 4px; background: #EEEEEE; }
+div.username { font-weight: bold; width: auto; float: left; }
+div.date { width: auto; text-align: right; }
+div.posttext { padding: 4px; background: #F9F9F9; }
+div.highlight { padding: 4px; background: #FFFFCC; }
+span.small { font-size: 10px; }
+#content { margin-bottom: 10px; border: 1px solid silver; padding: 4px; padding-left: 24px; }
+#navbar { background: #F9F9F9; border: 1px solid silver; padding: 4px; }
+#pagenumbers { text-align: center; margin-bottom: 4px; }
+#copyright { text-align: center; }
+hr { visibility: hidden; display: none; }
+a { color: #006699; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.sample { color: #E6E6E6; }
+blockquote { color: #444; display: block; margin: 5px 20px; width: auto; border: solid 1px #D0D0D0; background: #FFF url(images/bg_quote_content.gif) bottom right no-repeat; padding: 5px; font-size: 11px; line-height: 1.2em; font-family: Verdana, Arial, Helvetica, sans-serif; }
+blockquote h6 { margin: 0; margin-bottom: 5px; padding-left: 18px; padding-bottom: 3px; border-bottom: solid 1px #E0E0E0; font-size: 11px; line-height: 1.2em; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; color: #808080; background: #FFF url(images/bg_quote_header.gif) top left no-repeat; }
+.code { color: #444; display: block; margin: 5px 20px; width: auto; border: solid 1px #D0D0D0; background-color: #FFF; padding: 5px; font-size: 11px; line-height: 1.2em; font-family: 'Lucida Console', Courier, 'Courier New', sans-serif; }
+.code h6 { margin: 0; margin-bottom: 5px; padding-left: 18px; padding-bottom: 3px; border-bottom: solid 1px #E0E0E0; font-size: 11px; line-height: 1.2em; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; color: #808080; background: #FFF url(images/bg_code_header.gif) top left no-repeat; }
